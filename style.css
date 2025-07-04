@@ -104,8 +104,7 @@ body{
     margin: 0 auto;
 }
 
-.label
-
+label
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha{
         flex-direction: row;
