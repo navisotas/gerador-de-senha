@@ -8,7 +8,7 @@
     --borda: #0026ff;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
-    background-size: coverz;
+    background-size: cover;
 }
 
 * {
