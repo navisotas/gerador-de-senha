@@ -2,16 +2,16 @@
 
 :root {
     --branco: white;
-    background-image:url(WhatsApp-Image-2023-04-24-at-10.06.30-1.jpeg);
-    --fundo-senha: hwb(271.38deg 10.69% 80.17% / 50.2%);
-    --fundo-texto: #1c004048;
-    --borda: #0026ff;
+    background-image: url(Flickriver_\ Photoset\ \'Cars\ &\ Bikes\'\ by\ WillVision\ Photography.jpeg);
+    --fundo-senha: #00244d5b;
+    --fundo-texto: #001e4075;
+    --borda: #0075FF;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
     background-size: cover;
 }
 
-* {
+{
     font-weight: 400;
 }
 
